@@ -32,7 +32,7 @@ This app utilizes Room Database to store task data locally, enabling offline fun
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Just-NK14/task-flow.git
+   git clone https://github.com/rahulya43/Java-TASKFLOW
    ```
 
 2. **Open the project in Android Studio**:
